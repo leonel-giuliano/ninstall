@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/ninstall.dir/ninstall.c.o "CMakeFiles/ninstall.dir/manage-op.c.o" CMakeFiles/ninstall.dir/op.c.o -o ninstall   -L/home/leo/projects/C-Projects/ninstall/lib  -Wl,-rpath,/home/leo/projects/C-Projects/ninstall/lib -largop 

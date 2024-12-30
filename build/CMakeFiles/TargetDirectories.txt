@@ -1,0 +1,3 @@
+/home/leo/projects/C-Projects/ninstall/build/CMakeFiles/ninstall.dir
+/home/leo/projects/C-Projects/ninstall/build/CMakeFiles/edit_cache.dir
+/home/leo/projects/C-Projects/ninstall/build/CMakeFiles/rebuild_cache.dir
